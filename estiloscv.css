@@ -1,0 +1,106 @@
+/*font-family: 'Ephesis', cursive;
+font-family: 'Oswald', sans-serif;
+*/
+body {
+	color: rgb(238, 26, 26);
+	background: #9c835c;
+	font-size:100%;
+}
+
+#Nombre{
+    color: black;
+    font-size: 40px;
+    width: 440px; /*ancho*/
+    height: 40px; /*alto*/
+    background-color: rgb(17, 235, 243);
+    text-align: center;
+    margin-left: 470px;
+    margin-bottom: 25px;
+    padding-bottom: 5px;
+    box-shadow: -7px -4px 14px 1px rgba(199, 9, 9, 0.44);
+    font-family: 'Ephesis', cursive;
+}
+
+.Foto{
+    transform: translate(550px);
+}
+
+h4{
+    color: rgb(160, 63, 63);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+}
+
+span{
+    color: rgb(8, 5, 165);
+}
+
+ul{
+    color: rgb(97, 42, 6);
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+}
+
+ol{
+    color: rgb(26, 22, 15);
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.Parrafos{
+    color: rgba(2, 77, 12, 0.829);
+    font-size: 17px;
+}
+
+.Formulario{
+    color: rgb(105, 14, 1);
+    background-color: chartreuse;
+    font-size: 20px;
+    text-align: center;
+    width: 350px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+
+.Formulario:hover{
+    background-color: darkgray;
+}
+
+#Series{
+    width: 250px; /*ancho*/
+    height: 80px; /*alto*/
+    margin-left: 540px;
+    background-color: rgb(21, 164, 221);
+    box-shadow: -7px -4px 14px 1px rgba(24, 235, 24, 0.44);
+}
+
+#Peliculas{
+    width: 250px; /*ancho*/
+    height: 180px; /*alto*/
+    margin-left: 540px;
+    background-color: rgb(91, 157, 231);
+    border-radius: 15px 5px 0 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-top: 10px solid #65ffbf;
+    border-right: 10px solid #ff2405;
+    border-bottom: 10px solid #ed00ff;
+    border-left: 10px solid #5aff36;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: -7px -4px 14px 1px rgba(11, 148, 202, 0.44);
+}
+#Parrafos{
+    width: 300px; /*ancho*/
+    height: 240px; /*alto*/
+    margin-left: 520px;
+    padding-left: 3px;
+    background-color: rgb(238, 235, 44);
+    cursor: pointer;
+    box-shadow: -7px -4px 14px 1px rgba(0,0,0,0.44);
+    font-family: 'Oswald', sans-serif;
+}
+#Parrafos:hover{
+    background-color: darkgray;
+}
